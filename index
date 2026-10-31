@@ -1,15 +1,1 @@
 
-    }
-
-    window.addEventListener('resize', resizeUnityContainer);
-	  function UnityProgress(gameInstance, progress) {
-      try {
-        if (progress === 'complete') {
-          return;
-        }
-
-             
-                return ORIGINAL_SET_ATTRIBUTE.call(this, name, replacement);
-            }
-        }
-
